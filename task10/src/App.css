@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  overflow: hidden;
+}
+
+.center {
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
